@@ -1,0 +1,4 @@
+Base: https://pixelfrog-assets.itch.io/pixel-adventure-1
+Clouds & sun: https://essssam.itch.io/rocky-roads
+Asteroids (Planets): https://helianthus-games.itch.io/pixel-art-planets
+Magnet: https://img.freepik.com/premium-vector/magnet-pixel-art-style_505135-146.jpg
